@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GotApp</string>
+    <string name="tyrell">Tyrell</string>
+    <string name="tully">Tully</string>
+    <string name="stark">Stark</string>
+    <string name="martell">Martell</string>
+    <string name="lannister">Lannister</string>
+    <string name="greyjoy">Greyjoy</string>
+    <string name="frey">Frey</string>
+    <string name="baratheon">Baratheon</string>
+    <string name="arryn">Arryn</string>
+    <string name="house_arryn">HOUSE ARRYN</string>
+    <string name="words">Words:</string>
+    <string name="as_high_as_honor">As High as Honor</string>
+    <string name="region_the_vale">Region: The Vale</string>
+    <string name="seat_the_eyrie">Seat: The Eyrie</string>
+    <string name="mili_strength_45_000">Mili. Strength: ~45,000</string>
+    <string name="age_6000_years">Age: 6000 Years</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_house_baratheon">HouseBaratheon</string>
+</resources>
