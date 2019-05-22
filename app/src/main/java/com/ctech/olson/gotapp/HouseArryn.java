@@ -8,6 +8,6 @@ public class HouseArryn extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.housebaratheon);
+        setContentView(R.layout.housearryn);
     }
 }

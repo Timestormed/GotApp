@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Baratheon = (Button) findViewById(R.id.button);
+        Baratheon = (Button) findViewById(R.id.button2);
         Baratheon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        Arryn = (Button) findViewById(R.id.button2);
+        Arryn = (Button) findViewById(R.id.button);
         Arryn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

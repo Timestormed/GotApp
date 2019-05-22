@@ -8,6 +8,6 @@ public class HouseGreyjoy extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.housearryn);
+        setContentView(R.layout.housegreyjoy);
     }
 }
